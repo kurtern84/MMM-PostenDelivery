@@ -1,5 +1,6 @@
 # MMM-PostenDelivery
 A MagicMirror module to display the next postal delivery date from Posten.no
+- The api is based on [HomeAssistant-Posten](https://github.com/BobTheShoplifter/HomeAssistant-Posten). Thanks to @BobTheShoplifter
 
 Features
 - Shows the next postal delivery date using terms like "today", "tomorrow", etc.

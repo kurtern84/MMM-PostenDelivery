@@ -1,0 +1,13 @@
+{
+  "name": "MMM-PostenDelivery",
+  "version": "1.0.0",
+  "description": "MagicMirror module to display post delivery days based on postal code",
+  "main": "MMM-PostenDelivery.js",
+  "scripts": {
+    "start": "node node_helper.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "python-shell": "^3.0.1"
+  }
+}

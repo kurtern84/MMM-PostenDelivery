@@ -1,0 +1,9 @@
+.MMM-PostenDelivery ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.MMM-PostenDelivery li {
+    padding: 5px 0;
+}
